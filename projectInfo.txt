@@ -1,0 +1,6 @@
+Stakeholders
+1. Admin
+2. User
+
+Admin Functionalities
+1. Categories Crud
