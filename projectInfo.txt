@@ -4,3 +4,24 @@ Stakeholders
 
 Admin Functionalities
 1. Categories Crud
+2. SubCategories Crud
+3. Can See All Events
+4. Can See All Communities
+5. Can See All Users
+6. See Analytics Of the App
+
+USer Functionalities / Web and App
+1. SignUp or Login
+2. Can explore Events according to location 
+3. User can join that Events
+4. User and Events Creator can do Posts and comments related to that event
+
+Technologies 
+
+1. Frontend / Backend: Next Js
+2. Css: Tailwind 
+3. Database: MongoDB
+4. Library: Shadcn
+5. API Testing: Postman
+6. Deployment: Vercel
+
