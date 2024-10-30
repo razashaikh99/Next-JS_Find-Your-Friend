@@ -33,8 +33,8 @@ const events = [
     // date: new Date().toLocaleDateString(),
   },
   {
-    title: "Nikkah Event",
-    description: "This Event is related about Nikkah Wedding",
+    title: "Mehfil_e_Milad Event",
+    description: "This Event is related about Mehfil e Milad",
     location: "Gulshan e Iqbal, Karachi",
     thumbnail: "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG5pa2thaCUyMGV2ZW50fGVufDB8fDB8fHww",
     // date: new Date().toLocaleDateString,
@@ -48,9 +48,9 @@ export default function Events() {
       <Table>
       <TableHeader>
         <TableRow>
-          <TableHead>thumbnail Image</TableHead>
-          <TableHead className="w-[200px]">title</TableHead>
-          <TableHead>description</TableHead>
+          <TableHead>Thumbnail</TableHead>
+          <TableHead className="w-[200px]">Title</TableHead>
+          <TableHead>Description</TableHead>
           <TableHead>Location</TableHead>
           {/* <TableHead>date</TableHead> */}
         </TableRow>
